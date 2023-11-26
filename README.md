@@ -1,5 +1,3 @@
-Certainly! Below is the updated README based on the provided information:
-
 # Kratin App - Habit Tracker for a Healthier Life
 
 ## Overview
