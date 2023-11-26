@@ -60,3 +60,8 @@ To run the Kratin App locally:
 4. Start the application: `npm start`
 
 Visit [http://localhost:5173](http://localhost:5173) in your browser to explore the Kratin App and start tracking your habits for a healthier life!
+
+![SignUp Screen](src/screenshots/Signup.png)
+![Login Tracker](src/screenshots/Login.png)
+![Home View](src/screenshots/Home.png)
+![Week View](src/screenshots/Week.png)
